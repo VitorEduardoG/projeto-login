@@ -31,6 +31,8 @@ Um projeto desenvolvido para criar uma página de login.
 * < br > - É uma quebra de linha, igual a uma linha invisível.
 
 * < button ></ button > - É utilizada para inserir interatividade em uma página ou formulário, e executa uma funcão com o clique do usuário. Por padrão, sua aparência é semelhante a um botão retangular.
+
+* < div ></ div > - É como um container, uma caixa de texto que pode mover o conteúdo da caixa aonde desejar.
  
 ## Referências
  

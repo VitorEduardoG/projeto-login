@@ -10,7 +10,7 @@ Projeto criado como parte avaliativa da disciplina de Fundamentos de Desenvolvim
  
 ## Descrição
  
-Um projeto desenvolvido para criar uma página de login.
+Um projeto para criar uma página de login com linguagens de HTML e CSS.
 
  
 ## Tecnologias
